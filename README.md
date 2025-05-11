@@ -10,17 +10,7 @@
 
 - Usage instructions 
 
-- Sample output 
-
-- Security notes
-
-- Project file structure
-
-- Future enhancements roadmap
-
 - License info
-
-- Author attribution
 
 # SentiNex – A Python-Based Network Monitoring Tool
 
